@@ -27,4 +27,10 @@ A Tableau workbook `Victoria AirBnb Listings Analysis.twbx` has also been saved 
 
 ## Results of the Analysis
 
+The following insights have been found using the dashboard:
+
+- A host can potentially earn an estimated $50000/year from a single listing in the Victoria neighbourhood by renting out their 2 bedroom condo for 180 nights per year. 
+- The most in demand units in terms of average nights booked per year are in the neighbourhoods closest to Victoria itself: Victoria, Esquimalt, and Oak Bay for example. Guests of these rental units stay around 10 nights per visit, on average.
+- Single bedroom guest suites are the most common type of property type in the Victoria area, and come at a price of $129/night.
+- Large groups may have to look beyond the immediate Victoria area, as properties capable of accomodating groups larger than 10 are more common in neighbourhoods like the Southern Gulf Islands, Saanich, and Langford.
 
